@@ -9,7 +9,14 @@
 <h1 align="center">Hi 👋, I'm Judson-web ( Dark Lord ) <img src="https://telegra.ph/file/ddf389fd2c2fbbf1be4e1.jpg" width="60" height="60"> </h1>
 <h3 align="center">A Simple TG Developer (Noob)</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Judson-web&label=Profile%20views&color=0e75b6&style=flat" alt="Judson-web" /> </p>
+[![Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://telegram.dog/VAMPIRE_KING_NO_1)
+
+![Profile views](https://gpvc.arturio.dev/Judson-web)
+
+[![Chat on Telegram](https://img.shields.io/badge/Chat%20on-Telegram-brightgreen.svg)](https://telegram.dog/VAMPIRE_KING_NO_1)
+
+[![GitHub followers](https://img.shields.io/github/followers/Judson-web.svg?style=social&label=Followers&maxAge=2592000)](https://github.com/Judson-web?tab=followers)
+
 
 - 🔭 I’m currently on Trying & Modifying Telegram Bots
 
