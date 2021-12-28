@@ -1,5 +1,5 @@
    <p align="center">
-  <img src="https://i.ibb.co/xmYdG7m/images-removebg-preview.png" alt="𝙼𝚎𝚙𝚑𝚒𝚜𝚝𝚘 Logo">
+  <img src="https://i.ibb.co/xmYdG7m/images-removebg-preview.png" alt="Dark Logo">
 </p>       
             My Name is ᗪᗩᖇ𐌊 し〇ᖇᗪ
 
