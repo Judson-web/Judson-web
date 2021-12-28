@@ -11,7 +11,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Judson-web&label=Profile%20views&color=0e75b6&style=flat" alt="Judson-web" /> </p>
 
-- 🔭 I’m currently working on Trying & Modifying Telegram Bots
+- 🔭 I’m currently on Trying & Modifying Telegram Bots
 
 - 🌱 I’m currently learning
 
