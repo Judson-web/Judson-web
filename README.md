@@ -22,7 +22,7 @@
 
 - 🌱 I’m currently learning
 
-- 📝 I regularly active on [ƬЄƦƦƠƦ MƖƇƘЄƳ](https://telegram.dog/VAMPIRE_KING_NO_1)
+- 📝 I regularly active on [Telegram](https://telegram.dog/VAMPIRE_KING_NO_1)
 
 - 💬 Ask me about **👲😁😁😁**
 
