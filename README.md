@@ -11,7 +11,7 @@
 
 [![Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://telegram.dog/VAMPIRE_KING_NO_1)
 
-![Profile views](https://gpvc.arturio.dev/Judson-web) ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Judson-web/)
+![Visitor Count](https://profile-counter.glitch.me/{Judson-web}/count.svg)  ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Judson-web/)
 
 [![Chat on Telegram](https://img.shields.io/badge/Chat%20on-Telegram-brightgreen.svg)](https://telegram.dog/VAMPIRE_KING_NO_1)
 
